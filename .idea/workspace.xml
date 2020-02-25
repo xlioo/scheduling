@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb4543ed-b63d-4259-82c7-9ccc6c098b6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X0KBphme2U0SmuJZibjFfZmB3i" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Scheduling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xlioo.scheduling.Scheduling" />
+      <module name="scheduling" />
+      <option name="PROGRAM_PARAMETERS" value="{\&quot;name\&quot;:\&quot;resources\&quot;,\&quot;version\&quot;:\&quot;1.0.0\&quot;,\&quot;employees\&quot;:{\&quot;FR\&quot;:[\&quot;张明明\&quot;,\&quot;高翔\&quot;],\&quot;FI\&quot;:[\&quot;叶兵\&quot;,\&quot;思涛\&quot;,\&quot;邹明伟\&quot;,\&quot;肖雨豪\&quot;,\&quot;希兴杰\&quot;],\&quot;Data\&quot;:[\&quot;徐昕平\&quot;,\&quot;胡佳斌\&quot;,\&quot;夏永刚\&quot;,\&quot;韩文强\&quot;],\&quot;DFX\&quot;:[],\&quot;App\&quot;:[\&quot;谭林\&quot;,\&quot;陈霄阳\&quot;]},\&quot;history\&quot;:{\&quot;startDate\&quot;:\&quot;2020-01-30\&quot;,\&quot;plan\&quot;:[]},\&quot;ScoreRules\&quot;:{\&quot;weak\&quot;:[25,10,15,15,10,20,30],\&quot;specialDate\&quot;:{\&quot;2020-01-30\&quot;:40,\&quot;2020-02-03\&quot;:100}}}" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scheduling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xlioo.scheduling.Scheduling" />
+      <module name="scheduling" />
+      <option name="PROGRAM_PARAMETERS" value="{\&quot;name\&quot;:\&quot;resources\&quot;,\&quot;version\&quot;:\&quot;1.0.0\&quot;,\&quot;employees\&quot;:{\&quot;FR\&quot;:[\&quot;张明明\&quot;,\&quot;高翔\&quot;],\&quot;FI\&quot;:[\&quot;叶兵\&quot;,\&quot;思涛\&quot;,\&quot;邹明伟\&quot;,\&quot;肖雨豪\&quot;,\&quot;希兴杰\&quot;],\&quot;Data\&quot;:[\&quot;徐昕平\&quot;,\&quot;胡佳斌\&quot;,\&quot;夏永刚\&quot;,\&quot;韩文强\&quot;],\&quot;DFX\&quot;:[],\&quot;App\&quot;:[\&quot;谭林\&quot;,\&quot;陈霄阳\&quot;]},\&quot;history\&quot;:{\&quot;startDate\&quot;:\&quot;2020-01-30\&quot;,\&quot;plan\&quot;:[]},\&quot;ScoreRules\&quot;:{\&quot;weak\&quot;:[25,10,15,15,10,20,30],\&quot;specialDate\&quot;:{\&quot;2020-01-30\&quot;:40,\&quot;2020-02-03\&quot;:100}}}" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xlioo.scheduling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scheduling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xlioo.scheduling.Scheduling" />
+      <module name="scheduling" />
+      <option name="PROGRAM_PARAMETERS" value="{\&quot;name\&quot;:\&quot;resources\&quot;,\&quot;version\&quot;:\&quot;1.0.0\&quot;,\&quot;employees\&quot;:{\&quot;FR\&quot;:[\&quot;张明明\&quot;,\&quot;高翔\&quot;],\&quot;FI\&quot;:[\&quot;叶兵\&quot;,\&quot;思涛\&quot;,\&quot;邹明伟\&quot;,\&quot;肖雨豪\&quot;,\&quot;希兴杰\&quot;],\&quot;Data\&quot;:[\&quot;徐昕平\&quot;,\&quot;胡佳斌\&quot;,\&quot;夏永刚\&quot;,\&quot;韩文强\&quot;],\&quot;DFX\&quot;:[],\&quot;App\&quot;:[\&quot;谭林\&quot;,\&quot;陈霄阳\&quot;]},\&quot;history\&quot;:{\&quot;startDate\&quot;:\&quot;2020-01-30\&quot;,\&quot;plan\&quot;:[]},\&quot;ScoreRules\&quot;:{\&quot;weak\&quot;:[30,25,10,15,15,10,20],\&quot;specialDate\&quot;:{\&quot;2020-01-30\&quot;:40,\&quot;2020-02-03\&quot;:100}}}" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xlioo.scheduling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scheduling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xlioo.scheduling.Scheduling" />
+      <module name="scheduling" />
+      <option name="PROGRAM_PARAMETERS" value="{\&quot;name\&quot;:\&quot;resources\&quot;,\&quot;version\&quot;:\&quot;1.0.0\&quot;,\&quot;employees\&quot;:{\&quot;FR\&quot;:[\&quot;张明明\&quot;,\&quot;高翔\&quot;],\&quot;FI\&quot;:[\&quot;叶兵\&quot;,\&quot;思涛\&quot;,\&quot;邹明伟\&quot;,\&quot;肖雨豪\&quot;,\&quot;希兴杰\&quot;],\&quot;Data\&quot;:[\&quot;徐昕平\&quot;,\&quot;胡佳斌\&quot;,\&quot;夏永刚\&quot;,\&quot;韩文强\&quot;],\&quot;DFX\&quot;:[],\&quot;App\&quot;:[\&quot;谭林\&quot;,\&quot;陈霄阳\&quot;]},\&quot;history\&quot;:{\&quot;startDate\&quot;:\&quot;2020-01-30\&quot;,\&quot;plan\&quot;:[\&quot;张明明\&quot;,\&quot;叶兵\&quot;,\&quot;张明明\&quot;]},\&quot;ScoreRules\&quot;:{\&quot;weak\&quot;:[25,10,15,15,10,20,30],\&quot;specialDate\&quot;:{\&quot;2020-01-30\&quot;:40,\&quot;2020-01-31\&quot;:40,\&quot;2020-02-03\&quot;:100}}}" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xlioo.scheduling.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Scheduling" />
+        <item itemvalue="Application.Scheduling" />
+        <item itemvalue="Application.Scheduling" />
+        <item itemvalue="Application.Scheduling" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb4543ed-b63d-4259-82c7-9ccc6c098b6b" name="Default Changelist" comment="" />
+      <created>1580177438225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580177438225</updated>
+      <workItem from="1580177444266" duration="62762000" />
+      <workItem from="1581610403799" duration="623000" />
+      <workItem from="1581689843747" duration="1458000" />
+      <workItem from="1581823767995" duration="21791000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581824528352">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="104" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1581824528352" />
+    <state x="386" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1582119166085">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="386" y="121" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1582119166085" />
+    <state x="377" y="205" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581824525911">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="377" y="205" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1280.777@0.23.1280.777" timestamp="1581824525911" />
+    <state width="457" height="466" key="DebuggerActiveHint" timestamp="1582556924219">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="457" height="466" key="DebuggerActiveHint/0.23.1280.777@0.23.1280.777" timestamp="1582556924219" />
+    <state width="1218" height="184" key="GridCell.Tab.0.bottom" timestamp="1582644811193">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1582644811193" />
+    <state width="1218" height="184" key="GridCell.Tab.0.center" timestamp="1582644811192">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1582644811192" />
+    <state width="1218" height="184" key="GridCell.Tab.0.left" timestamp="1582644811191">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1582644811191" />
+    <state width="1218" height="184" key="GridCell.Tab.0.right" timestamp="1582644811193">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1582644811193" />
+    <state width="1218" height="229" key="GridCell.Tab.1.bottom" timestamp="1582644740392">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="229" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1582644740392" />
+    <state width="1218" height="229" key="GridCell.Tab.1.center" timestamp="1582644740390">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="229" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1582644740390" />
+    <state width="1218" height="229" key="GridCell.Tab.1.left" timestamp="1582644740390">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="229" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1582644740390" />
+    <state width="1218" height="229" key="GridCell.Tab.1.right" timestamp="1582644740391">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="229" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1582644740391" />
+    <state x="178" y="75" key="Maven.ArtifactSearchDialog" timestamp="1580190599742">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="178" y="75" key="Maven.ArtifactSearchDialog/0.23.1280.777@0.23.1280.777" timestamp="1580190599742" />
+    <state x="149" y="50" key="SettingsEditor" timestamp="1580394163231">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="149" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1580394163231" />
+    <state x="435" y="198" key="chooseDestDirectoryDialog" timestamp="1580456581579">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="435" y="198" key="chooseDestDirectoryDialog/0.23.1280.777@0.23.1280.777" timestamp="1580456581579" />
+    <state x="296" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1581823785663">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="296" y="246" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1581823785663" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1582557497282">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1280.777@0.23.1280.777" timestamp="1582557497282" />
+    <state x="347" y="38" key="refactoring.ChangeSignatureDialog" timestamp="1581059080432">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="347" y="38" key="refactoring.ChangeSignatureDialog/0.23.1280.777@0.23.1280.777" timestamp="1581059080432" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1580221764079">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1580221764079" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xlioo/scheduling/Scheduling.java</url>
+          <line>180</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xlioo/scheduling/Scheduling.java</url>
+          <line>204</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
