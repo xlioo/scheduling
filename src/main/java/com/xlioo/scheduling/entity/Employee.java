@@ -14,6 +14,15 @@ public class Employee {
 
     }
 
+    public Employee(){
+        setName("");
+        setGroup("");
+        setTimes(0);
+        setTotalScore(0);
+    }
+
+
+
     public static Employee pullMinScore(List<Employee> employeeList){
         employeeList.sort((employee1,employee2)->{
             return employee1.getTotalScore() - employee2.getTotalScore() ;

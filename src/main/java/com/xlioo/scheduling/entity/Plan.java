@@ -41,7 +41,7 @@ public class Plan implements Serializable {
                 ", name='" + name + '\'' +
                 ", score=" + score +
                 ", isArranged=" + isArranged +
-                '}';
+                "}\n";
     }
 
     public String getDate() {
