@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb4543ed-b63d-4259-82c7-9ccc6c098b6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xlioo/scheduling/unit/Condition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xlioo/scheduling/Scheduling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xlioo/scheduling/Scheduling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xlioo/scheduling/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xlioo/scheduling/entity/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xlioo/scheduling/entity/Plan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xlioo/scheduling/entity/Plan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/input.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/input.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/input.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/input.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/inputString.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/inputString.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/scheduling.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +159,7 @@
       <workItem from="1581823767995" duration="22452000" />
       <workItem from="1582727388569" duration="218000" />
       <workItem from="1582728073086" duration="168000" />
-      <workItem from="1582817420310" duration="33138000" />
+      <workItem from="1582817420310" duration="36995000" />
     </task>
     <servers />
   </component>
@@ -170,10 +167,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="104" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583074127845">
+    <state x="104" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583424267717">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="104" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1583074127845" />
+    <state x="104" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1583424267717" />
+    <state x="427" y="125" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1583424198875">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="427" y="125" key="#com.intellij.ide.macro.MacrosDialog/0.23.1280.777@0.23.1280.777" timestamp="1583424198875" />
     <state x="386" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1582119166085">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -190,22 +191,22 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="457" height="466" key="DebuggerActiveHint/0.23.1280.777@0.23.1280.777" timestamp="1582556924219" />
-    <state width="1218" height="184" key="GridCell.Tab.0.bottom" timestamp="1583338501860">
+    <state width="1218" height="184" key="GridCell.Tab.0.bottom" timestamp="1583424220643">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1218" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1583338501860" />
-    <state width="1218" height="184" key="GridCell.Tab.0.center" timestamp="1583338501858">
+    <state width="1218" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1583424220643" />
+    <state width="1218" height="184" key="GridCell.Tab.0.center" timestamp="1583424220642">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1218" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1583338501858" />
-    <state width="1218" height="184" key="GridCell.Tab.0.left" timestamp="1583338501856">
+    <state width="1218" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1583424220642" />
+    <state width="1218" height="184" key="GridCell.Tab.0.left" timestamp="1583424220641">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1218" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1583338501856" />
-    <state width="1218" height="184" key="GridCell.Tab.0.right" timestamp="1583338501858">
+    <state width="1218" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1583424220641" />
+    <state width="1218" height="184" key="GridCell.Tab.0.right" timestamp="1583424220643">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1218" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1583338501858" />
+    <state width="1218" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1583424220643" />
     <state width="1218" height="229" key="GridCell.Tab.1.bottom" timestamp="1583076290489">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
